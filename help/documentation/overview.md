@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge概述
 description: 了解Adobe Brand Concierge，这是一个由AI支持的产品发现和参与解决方案，适用于品牌拥有的数字资产。
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2953'
+source-wordcount: '2952'
 ht-degree: 1%
 
 ---
@@ -127,9 +127,9 @@ Brand Concierge主页旨在实现易用性和高效性，通过专门的首次�
 2. 使用Tester视图模拟最终用户对话。
 3. 使用拇指上移和下移机制对收到的每个响应进行评级。
 4. 拇指朝下的完整反馈表：
-   **响应覆盖率：**&#x200B;是否解决了意图？
-   **品牌色调：**&#x200B;是否与个性一致？
-   **响应质量：**&#x200B;是否清除并结构化？
+   **响应覆盖率：**是否解决了意图？
+   **品牌色调：**是否与个性一致？
+   **响应质量：**是否清除并结构化？
    **响应功能：**&#x200B;有用的跟进信息？
 5. 添加评论和具体意见。
 6. 提交反馈以供功能板审核。
@@ -179,7 +179,7 @@ Brand Concierge为企业提供了用于客户参与的高级对话人工智能�
 * 控制品牌声音、语调和合规性要求。
 * 使用Customer Journey Analytics功能板跟踪性能。
 * 实现人工智能到人的无缝切换，包括会议安排。
-* 与Adobe Experience Platform、Commerce和Experience Manager集成。
+* 与Adobe Experience Platform和Experience Manager集成。
 
 ## 用例
 
@@ -296,7 +296,7 @@ Adobe的顾问在后台处理即时工程：
 
 #### 如何衡量成功？
 
-可以使用Brand Concierge仪表板衡量成功与否。 使用功能板跟踪量度，例如：
+您可以使用Brand Concierge仪表板衡量成功与否。 使用功能板跟踪量度，例如：
 
 | 量度 | 跟踪的内容 |
 |--------|----------------|
@@ -322,9 +322,9 @@ Adobe的顾问在后台处理即时工程：
 | 集成选项 | 功能 |
 |-------------------|--------------|
 | **独立** | 使用您的产品目录和内容 |
-| 使用Adobe Experience Platform **&#x200B;**&#x200B;| 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
-| 使用Adobe Commerce **&#x200B;**&#x200B;| 实时库存<br>订单历史记录<br>购物车集成 |
-| 使用Adobe Experience Manager **&#x200B;**&#x200B;| 内容管理<br>动态更新<br>多站点支持 |
+| 使用Adobe Experience Platform **** | 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
+| 使用Adobe Commerce **** | 实时库存<br>订单历史记录<br>购物车集成 |
+| 使用Adobe Experience Manager **** | 内容管理<br>动态更新<br>多站点支持 |
 
 #### 如果我的网站不在Adobe上怎么办？
 
