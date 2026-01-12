@@ -1,5 +1,5 @@
 ---
-title: 会议预订入门
+title: 预约会议
 description: 了解如何预约会议。 查看客户体验，配置代表使用其日历和查看报告
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,15 +8,15 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: c78402ac62c0a7532eb4dac9ea3677cd04f74c35
+source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
 
-# 预订会议
+# 预约会议
 
 了解Adobe Brand Concierge中的预订会议功能。 此视频教程中涵盖的主题包括面向客户的体验的外观、用于连接日历的管理员配置以及查看一些功能板和报表。
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解向实时代理传输数据的速度和轻松程度
 * 了解如何管理和配置这些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478544?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
