@@ -32,6 +32,6 @@ ht-degree: 0%
 * 了解向实时代理传输数据的速度和轻松程度
 * 了解如何管理和配置这些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478544?captions=chi_hans&learn=on&enablevpops)
 
 有关更多文档，请参阅[会议](../documentation/meetings.md)。
