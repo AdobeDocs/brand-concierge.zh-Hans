@@ -1,5 +1,5 @@
 ---
-title: 预约会议
+title: 预订会议 — 视频
 description: 了解如何预约会议。 查看客户体验，配置代表使用其日历和查看报告
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 了解向实时代理传输数据的速度和轻松程度
 * 了解如何管理和配置这些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478544?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 有关更多文档，请参阅[会议](../documentation/meetings.md)。

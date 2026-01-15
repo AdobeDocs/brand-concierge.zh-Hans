@@ -1,5 +1,5 @@
 ---
-title: 创建礼宾视频
+title: 创建礼宾 — 视频
 description: 了解如何设置Adobe Brand Concierge以使用您品牌的声音提供个性化、对话式客户体验。
 topic: Personalization,Integrations
 role: User
@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 如何连接内容源以获得准确响应
 * 如何自定义品牌声音并测试体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3476531/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
