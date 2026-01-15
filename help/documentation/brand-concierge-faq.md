@@ -139,9 +139,9 @@ Adobe的顾问在后台处理即时工程：
 | 集成选项 | 功能 |
 |-------------------|--------------|
 | **独立** | 使用您的产品目录和内容 |
-| 使用Adobe Experience Platform **** | 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
-| 使用Adobe Commerce **** | 实时库存<br>订单历史记录<br>购物车集成 |
-| 使用Adobe Experience Manager **** | 内容管理<br>动态更新<br>多站点支持 |
+| 使用Adobe Experience Platform **&#x200B;**&#x200B;| 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
+| 使用Adobe Commerce **&#x200B;**&#x200B;| 实时库存<br>订单历史记录<br>购物车集成 |
+| 使用Adobe Experience Manager **&#x200B;**&#x200B;| 内容管理<br>动态更新<br>多站点支持 |
 
 ### 如果我的网站不在Adobe上怎么办？
 
