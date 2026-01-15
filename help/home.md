@@ -1,9 +1,9 @@
 ---
-title: Adobe Brand Concierge
-description: 进一步了解Adobe Brand Concierge。
-source-git-commit: 0350baa8ed2e7cd5f8a676c5eb82a165767cbf4f
+title: 文档和教程
+description: 了解如何使用设置、知识源、品牌自定义、会议和分析的指南配置和优化AI助手。
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

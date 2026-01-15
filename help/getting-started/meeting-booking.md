@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ ht-degree: 0%
 * 了解向实时代理传输数据的速度和轻松程度
 * 了解如何管理和配置这些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478544?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+有关更多文档，请参阅[会议](../documentation/meetings.md)。
