@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 创建您的第一个礼宾
 
-了解如何设置您的第一个Adobe Brand Concierge，以帮助客户找到合适的Adobe产品、服务或体验。 您将学习如何为门房命名、添加有用的内容、选择其响应方式并将其声音与您的品牌相匹配。 设备准备就绪后，您可以对其进行测试并查看它在桌面和移动设备上的工作方式。
+了解如何设置您的第一个Adobe Brand Concierge，以帮助在您的网站上为客户提供个性化的对话体验。 您将学习如何为门房命名、添加有用的内容、选择其响应方式并将其声音与您的品牌相匹配。 设备准备就绪后，您可以对其进行测试并查看它在桌面和移动设备上的工作方式。
 
 ## 此视频面向谁？
 
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 如何连接内容源以获得准确响应
 * 如何自定义品牌声音并测试体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3476531/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
