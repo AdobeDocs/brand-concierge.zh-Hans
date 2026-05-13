@@ -4,10 +4,19 @@ description: 获取有关Adobe Brand Concierge的常见问题解答。
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
 source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
 source-wordcount: 1537
@@ -170,9 +179,9 @@ Adobe的顾问在后台处理即时工程：
 | 集成选项 | 功能 |
 |-------------------|--------------|
 | **独立** | 使用您的产品目录和内容 |
-| 使用Adobe Experience Platform **** | 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
-| 使用Adobe Commerce **** | 实时库存<br>订单历史记录<br>购物车集成 |
-| 使用Adobe Experience Manager **** | 内容管理<br>动态更新<br>多站点支持 |
+| 使用Adobe Experience Platform **&#x200B;**&#x200B;| 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
+| 使用Adobe Commerce **&#x200B;**&#x200B;| 实时库存<br>订单历史记录<br>购物车集成 |
+| 使用Adobe Experience Manager **&#x200B;**&#x200B;| 内容管理<br>动态更新<br>多站点支持 |
 
 ### 如果我的网站不在Adobe上怎么办？
 
