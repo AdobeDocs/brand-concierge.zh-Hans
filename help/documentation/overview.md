@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
+source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
 workflow-type: tm+mt
-source-wordcount: 1995
+source-wordcount: 1999
 ht-degree: 1%
 
 ---
@@ -234,32 +234,32 @@ Brand Concierge支持跨多个行业的B2C和B2B用例。
 | 旅游与酒店 | 客户可获得个性化的目的地推荐、规划行程方面的帮助、整个预订流程中的支持以及对旅行政策问题的回答。 |
 | 金融服务 | Brand Concierge提供了产品比较功能，以帮助客户选择正确的财务解决方案、提供客户信息、提供合规性感知指导，并启用与财务顾问的会议日程安排。 |
 
-## 聊天机器人泄漏 {#disclosure}
+## 对话式人工智能公开 {#disclosure}
 
-为了提供透明且可信的体验，Adobe Brand Concierge用户有责任在其聊天体验中添加简短的信息披露。 此披露内容可帮助最终用户了解聊天的工作方式及其信息的使用方式。
+为了提供透明且可信的体验，Adobe Brand Concierge用户有责任在其对话体验中添加简短的信息披露。 此披露内容可帮助最终用户了解对话的工作方式及其信息的使用方式。
 
 **公开应包含的内容**
 
-您聊天中的披露内容应该向最终用户明确传达三件事。
+您对话中的披露内容应该向最终用户明确传达三件事。
 
-1. _聊天使用生成AI_
+1. _转换使用生成AI_
 
    让用户知道响应是由人工智能生成的，以便他们了解自己正在与自动化系统交互。
 
-1. 可以审核&#x200B;_聊天以改进体验_
+1. 可以审核&#x200B;_对话以改善体验_
 
-   应告知用户，您（客户）和您的服务提供商可以访问聊天对话，以帮助个性化响应并提高聊天质量和性能。
+   应告知用户，您（客户）和服务提供商可以访问对话，以帮助个性化响应并提高对话的质量和性能。
 
-1. _使用聊天意味着同意此使用_
+1. _使用对话式AI意味着同意此使用_
 
-明确表示继续使用聊天内容即表示用户同意对聊天数据进行这种处理。
+明确表示通过继续使用对话人工智能，用户同意对他们的对话数据进行这种处理。
 
 **示例（仅供参考）**
 
-`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+`"This conversational AI uses generative AI to help respond to you. Conversations may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to conversational AI you agree to this processing of data."`
 
 只要明确地传达上述要点，您就可以随意修改措辞，以符合您的品牌声音和用户体验。
 
 **这很重要的原因**
 
-预先了解聊天的工作方式有助于为用户设置正确的期望，并建立对AI支持的体验的信任。
+预先了解对话式人工智能的工作方式，有助于为用户设置正确的期望，并有助于建立对AI支持的体验的信任。
