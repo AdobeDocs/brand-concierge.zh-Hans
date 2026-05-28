@@ -34,6 +34,6 @@ ht-degree: 0%
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491543?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
