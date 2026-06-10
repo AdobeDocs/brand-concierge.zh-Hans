@@ -42,6 +42,6 @@ ht-degree: 0%
 * 如何连接内容源以获得准确响应
 * 如何自定义品牌声音并测试体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476531/?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
