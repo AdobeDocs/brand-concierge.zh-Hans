@@ -29,6 +29,6 @@ ht-degree: 0%
 * 潜在客户的活动日志中记录的本机“在礼宾室中计划的会议”活动类型，具有完整上下文：会议持续时间、销售步骤、路由类型和预订状态
 * 如何在Marketo Smart Campaigns中使用Brand Concierge活动类型 — 作为触发器、过滤器或批量活动数据
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492233?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
