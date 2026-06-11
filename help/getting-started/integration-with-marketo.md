@@ -8,7 +8,7 @@ topic: Integrations
 doc-type: Tutorial
 last-substantial-update: 2026-06-10T00:00:00Z
 jira: KT-21468
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
