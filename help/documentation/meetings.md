@@ -11,10 +11,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
 workflow-type: tm+mt
-source-wordcount: 347
-ht-degree: 2%
+source-wordcount: 329
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,9 @@ ht-degree: 2%
 
 了解您在Adobe Brand Concierge中的所有&#x200B;_会议_&#x200B;设置。 连接日历、设置可用性、查看分析等。
 
-相关：[预订会议](../getting-started/meeting-booking.md)视频
+>[!NOTE]
+>
+>您还可以观看[预约会议](../getting-started/meeting-booking.md)视频。
 
 ## 配置 {#configuration}
 
@@ -36,11 +38,9 @@ ht-degree: 2%
 
    ![Adobe Experience Platform主页](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. 在&#x200B;_配置_&#x200B;下，单击&#x200B;**[!UICONTROL 代表设置]**。
+1. 在&#x200B;_配置_&#x200B;下，单击&#x200B;**配置文件设置**。 在&#x200B;**[!UICONTROL 日历配置]**&#x200B;选项卡中，选择所需的日历。
 
    ![日历配置页](assets/meetings-connect-2.png)
-
-   在&#x200B;_[!UICONTROL 日历配置]_&#x200B;选项卡中，选择所需的日历。 在此示例中，您正在选择&#x200B;**[!UICONTROL Outlook]**。
 
 1. 选择已登录的帐户，或添加新帐户。
 
@@ -54,15 +54,13 @@ ht-degree: 2%
 
 1. 单击&#x200B;**[!UICONTROL 保存]**。
 
-### 设置日历可用性 {#availability}
+### 设置日历可用性 {#calendar-availability}
 
 1. 单击&#x200B;**[!UICONTROL 日历可用性]**&#x200B;选项卡。
 
    ![空白日历可用性页](assets/meetings-availability-1.png)
 
 1. 选择所需的设置。
-
-   在此示例中，您选择了30分钟的&#x200B;**[!UICONTROL 会议持续时间]**，其中缓冲时间为15分钟&#x200B;**[!UICONTROL 时间]**，最小通知时间为&#x200B;**[!UICONTROL 2小时]**。 供应时间设为星期一至星期五上午8点至下午5点（太平洋标准时间），中午休息一小时。
 
    >[!NOTE]
    >
@@ -72,11 +70,18 @@ ht-degree: 2%
 
 1. 单击&#x200B;**[!UICONTROL 保存]**。
 
-### 代表管理 {#representative}
+### 设置实时聊天可用性 {#chat-availability}
+
+1. 单击&#x200B;**[!UICONTROL 实时聊天可用性]**&#x200B;选项卡，然后选择所需的设置。 完成后单击&#x200B;**保存**。
+
+   ![实时聊天可用性页面，所有字段都已填写](assets/meetings-availability-3.png)
+
+
+### 管理成员 {#manage}
 
 **仅管理员**。 查看您的哪些代表已成功连接其日历。
 
-![代表管理页面](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![代表管理页面](assets/manage-members-1.png)
 
 ## 活动 {#activities}
 
