@@ -4,35 +4,19 @@ description: 了解Brand Concierge演示 — 价值视频。
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 111
+duration: 130
 last-substantial-update: 2026-07-09T00:00:00Z
 jira: KT-21955
 hide: true
-source-git-commit: 2f42997f9c4510d3a5e4cf321795dcedcbebdd5d
+source-git-commit: 82c76581434ed1e1a4ae2e8846c4cab9ad369f24
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 16%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
-# 品牌礼宾演示 — 价值视频
+# 从同事中创建和管理Brand Concierge
 
-## 概述
+此视频演示如何使用自然语言提示直接从Co-Worker创建和管理Brand Concierge (BC)。 它显示了端到端流程：提示同事为网站创建Brand Concierge，查看实时创建进度模式，打开BC预览，然后请求对话分析为给定的IMS组织和沙盒打开Brand Concierge报告仪表板。
 
-<!-- Briefly describe what this page covers and why it matters to the reader. -->
-
-## 先决条件
-
-<!-- List anything the reader needs before starting (permissions, tools, prior knowledge). -->
-
-## 步骤
-
-<!-- Replace this section heading with a task-specific verb phrase, e.g. 'Configure the data stream'. -->
-
-1. 第一步。
-1. 第二步。
-1. 第三步。
-
-## 其他资源
-
-<!-- Link to related documentation, tutorials, or community posts. -->
+>[!VIDEO](https://video.tv.adobe.com/v/3494755?captions=chi_hans)
