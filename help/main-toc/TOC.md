@@ -24,4 +24,4 @@ ht-degree: 41%
    + [常见问题解答](../documentation/brand-concierge-faq.md)
 + 发行说明 {#release-notes}
    + [当前版本信息](../release-notes/current.md)
-+ [品牌礼宾演示 — 价值视频](../demo-videos/demo-for-brand-concierge-value-video.md){.hide-from-toc}
++ [品牌礼宾演示 — 价值视频.hide-from-toc](../demo-videos/demo-for-brand-concierge-value-video.md)
