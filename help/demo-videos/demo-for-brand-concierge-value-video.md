@@ -19,4 +19,4 @@ ht-degree: 0%
 
 此视频演示如何使用自然语言提示直接从Co-Worker创建和管理Brand Concierge (BC)。 它显示了端到端流程：提示同事为网站创建Brand Concierge，查看实时创建进度模式，打开BC预览，然后请求对话分析为给定的IMS组织和沙盒打开Brand Concierge报告仪表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494747)
+>[!VIDEO](https://video.tv.adobe.com/v/3494755?captions=chi_hans)
