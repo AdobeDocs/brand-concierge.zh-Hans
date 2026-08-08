@@ -32,6 +32,6 @@ ht-degree: 0%
 * 构件可视选项：放置、显示模式、颜色和字体
 * 命名助手、编写其问候语并选择起始提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496950/?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
