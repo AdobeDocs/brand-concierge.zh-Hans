@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 150
 last-substantial-update: 2026-07-10T00:00:00Z
 jira: KT-21745
-source-git-commit: 14c0dae30087e8245964d6bd80eb462f8450f168
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 您提供的内容与Adobe团队配置的内容
 * 典型的6到9周时间线以及影响时间线的因素
 
->[!VIDEO](https://video.tv.adobe.com/v/3495877/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
