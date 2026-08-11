@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00.000Z
+last-substantial-update: 2026-01-06
 jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
@@ -20,16 +20,16 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: 121
-ht-degree: 17%
+ht-degree: 51%
 
 ---
 
 # 预约会议
 
-了解Adobe Brand Concierge中的预订会议功能。 此视频教程中涵盖的主题包括面向客户的体验的外观、用于连接日历的管理员配置以及查看一些功能板和报表。
+了解 Adobe Brand Concierge 中的预订会议功能。 这个视频教程中涵盖了一些主题，包括面向客户的体验是怎样的、如何通过管理员配置连接日程表，以及一些仪表板和报告。
 
 ## 此视频面向谁？
 
