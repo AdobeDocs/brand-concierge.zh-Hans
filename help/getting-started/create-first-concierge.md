@@ -42,7 +42,7 @@ ht-degree: 0%
 * 如何在保存之前查看和调整品牌配置文件、说明以及入门提示
 * 如何在桌面和移动设备上通过示例问题测试您的礼宾
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476531?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
 
