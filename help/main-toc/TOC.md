@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 28%
+source-wordcount: '107'
+ht-degree: 20%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 28%
   + [预约会议](../getting-started/meeting-booking.md)
   + [了解数据流ID](../getting-started/learn-about-datastream-ids.md)
   + [与Marketo集成](../getting-started/integration-with-marketo.md)
+  + [自定义礼宾的视觉风格](../getting-started/customize-visual-style.md)
 + 上线指南 {#go-live-guide}
   + [欢迎使用上线历程](../go-live/welcome.md)
   + [准备内容和访客体验](../go-live/content-and-journey.md)
@@ -27,6 +28,13 @@ ht-degree: 28%
   + [会议](../documentation/meetings.md)
   + {hide-from-toc}[技能与集成框架](../documentation/skills-and-integrations.md)
   + [常见问题解答](../documentation/brand-concierge-faq.md)
+  + 概述 {#overview}
+    + {hide-from-toc}[Brand Concierge概述](../documentation/overview/overview.md)
+    + {hide-from-toc}[您的第一个Brand Concierge](../documentation/overview/first-brand-concierge.md)
+  + 用户和访问管理 {#user-and-access-management}
+    + {hide-from-toc}[将用户添加到组织](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + {hide-from-toc}[将用户添加到角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + {hide-from-toc}[创建角色](../documentation/user-and-access-management/create-a-role.md)
 + 发行说明 {#release-notes}
   + [当前版本信息](../release-notes/current.md)
 + {hide-from-toc}[品牌礼宾演示 — 价值视频](../demo-videos/demo-for-brand-concierge-value-video.md)
