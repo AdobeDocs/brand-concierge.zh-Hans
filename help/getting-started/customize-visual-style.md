@@ -32,6 +32,6 @@ Adobe Brand Concierge首先会提供Adobe已为您做出的可视化选择 — �
 * 如何编辑欢迎消息标题和副标题，包括文本颜色、粗细和大小
 * 如何添加、删除和编辑入门提示信息卡 — 包括信息卡文本、图像和背景颜色
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502267?captions=chi_hans)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
