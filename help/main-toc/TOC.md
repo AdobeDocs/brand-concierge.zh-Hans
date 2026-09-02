@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '130'
 ht-degree: 20%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 20%
   + [与Marketo集成](../getting-started/integration-with-marketo.md)
   + [自定义礼宾的视觉风格](../getting-started/customize-visual-style.md)
   + [了解评估集](../getting-started/learn-about-evaluation-sets.md)
+  + [部署礼宾](../getting-started/deploy-the-concierge.md)
 + 上线指南 {#go-live-guide}
   + [欢迎使用上线历程](../go-live/welcome.md)
   + [准备内容和访客体验](../go-live/content-and-journey.md)
