@@ -2,9 +2,9 @@
 title: 创建和管理Brand Concierge的知识源
 description: 了解如何为Brand Concierge创建AEM Sites、网站链接和产品目录知识源，监控处理状态和解决抓取问题。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 1%
 >如果访客在配置的知识源之外询问相关信息，则礼宾服务旨在指示它没有该信息，而不是生成不受支持的答案。 使用评估过程验证此行为。
 
 ## 选择知识源
-
-来源材料描述了以下知识来源类型：
 
 | 知识源 | 使用时机 | 主要功能 |
 | --- | --- | --- |
