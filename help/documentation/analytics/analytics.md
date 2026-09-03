@@ -2,9 +2,9 @@
 title: 分析门房表现
 description: 了解如何查看礼宾分析、检查对话记录、将访客问题添加到评估集以及打开Customer Journey Analytics报表。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ CJA功能板包括：
 - 对话期间提出的礼宾推荐。
 
 使用功能板检查一段时间的趋势，并识别访客参与度、反馈、意图和情绪方面的变化。
-
-## 导出对话
-
-源资料将会话ID标识为将成绩单与其他系统中的记录进行匹配的一种方式，但它没有记录导出机制。
 
 >[!IMPORTANT]
 >
