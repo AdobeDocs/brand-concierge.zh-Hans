@@ -1,9 +1,9 @@
 ---
 title: Brand Concierge概述
 description: 了解Brand Concierge是什么、其主要组件如何组合在一起，以及在整个编辑器界面中遇到的主要术语词汇表。
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '509'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ Brand Concierge部署包含两个主要部分：
 | **访客体验** | 面向品牌的界面，例如网站或移动应用程序，访客可在其中与门房互动并实时获取响应。 |
 | **作者** | 用于设计礼宾体验和管理礼宾、集成、配置、评估、部署和分析的从业者界面。 |
 
-## 本指南中介绍的编辑器模块
+## 编辑器模块
 
-在Composer中，主要模块（以及本指南中介绍的模块）包括：
+在Composer中，主要模块包括：
 
-- 用户管理（第3节）
-- 知识源的创建和管理，在门房之间共享（第4节）
-- 礼宾管理：集成、技能、礼宾指导、语调和语音、视觉风格和聊天组件（第5节）
-- 评价（第6节）
-- 部署（第7款）
-- 上线核对清单（第8节）
-- Analytics（第9节）
+- [用户和访问管理](../user-and-access-management/add-a-user-to-the-org.md)
+- [知识源的创建和管理](../knowledge-sources/knowledge-sources.md)，在门房之间共享
+- [门房管理](../concierge-management/concierge-management.md)：集成、技能、门房指示、音调和语音、视觉风格和聊天组件
+- [评估](../evaluation/evaluation.md)
+- [部署](../deployment/deployment.md)
+- [上线清单](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## 各部件如何连接
 
@@ -58,4 +58,4 @@ Brand Concierge部署包含两个主要部分：
 
 >[!NOTE]
 >
->营销人员通常可以完全跳过第3部分&#x200B;*用户和访问管理*（IT人员只完成一次操作），并从第4部分&#x200B;*知识源*&#x200B;开始。 只有在设置新队友时，才返回第3部分。
+>营销人员通常可以完全跳过[用户和访问管理](../user-and-access-management/add-a-user-to-the-org.md)（IT中的某人只完成一次操作），从[知识源](../knowledge-sources/knowledge-sources.md)开始。 只有在设置新队友时，才能返回到用户和访问管理。

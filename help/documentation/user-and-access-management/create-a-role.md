@@ -1,9 +1,9 @@
 ---
 title: 创建具有Brand Concierge权限的角色
 description: 了解如何创建角色并授予其访问Brand Concierge所需的权限。
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,6 @@ ht-degree: 1%
 ## 创建角色
 
 1. 登录到`experienceplatform.adobe.com`。
-
-   >[!NOTE]
-   >
-   >在发布此过程之前，请通过工程确认生产URL。 源记录使用非正式或可能转录错误的URL。
 
 1. 在左侧导航中，滚动到&#x200B;**权限**&#x200B;并选择。
 1. 转到&#x200B;**角色**&#x200B;查看现有角色，然后选择&#x200B;**创建新角色**。
@@ -45,8 +41,3 @@ ht-degree: 1%
 ## 后续步骤
 
 创建角色后，将用户添加到该角色。 有关详细信息，请参阅[将用户添加到Brand Concierge角色](./add-a-user-to-the-role.md)。
-
-## 注意事项
-
-- 创建和管理沙盒的过程超出了此过程的范围。
-- 在定义长期角色模型之前，确认是否计划了额外的粒度Brand Concierge权限。
