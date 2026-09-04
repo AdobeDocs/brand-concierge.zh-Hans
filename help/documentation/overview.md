@@ -4,10 +4,20 @@ description: 了解如何配置并使用Brand Concierge的主要功能。
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
 source-wordcount: 2047
@@ -157,9 +167,9 @@ Brand Concierge具有许多关键功能，包括：
 1. 使用Tester视图模拟最终用户对话。
 1. 使用拇指上移和下移机制对收到的每个响应进行评级。
 1. 拇指朝下的完整反馈表：
-   **响应覆盖率：**是否解决了意图？
-   **品牌色调：**是否与个性一致？
-   **响应质量：**是否清除并结构化？
+   **响应覆盖率：**&#x200B;是否解决了意图？
+   **品牌色调：**&#x200B;是否与个性一致？
+   **响应质量：**&#x200B;是否清除并结构化？
    **响应功能：**&#x200B;有用的跟进信息？
 1. 添加评论和具体意见。
 1. 提交反馈以供功能板审核。
