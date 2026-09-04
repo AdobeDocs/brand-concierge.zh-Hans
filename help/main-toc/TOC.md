@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 16%
@@ -28,28 +28,28 @@ ht-degree: 16%
 + 文档 {#documentation}
   + [Brand Concierge帮助](../documentation/overview.md)
   + [会议](../documentation/meetings.md)
-  + {hide-from-toc}[技能与集成框架](../documentation/skills-and-integrations.md)
+  + [技能和集成框架](../documentation/skills-and-integrations.md)
   + [开发人员和自定义指南](../documentation/developer-customization-guide.md)
   + [常见问题解答](../documentation/brand-concierge-faq.md)
   + 概述 {#overview}
-    + {hide-from-toc}[Brand Concierge概述](../documentation/overview/overview.md)
-    + {hide-from-toc}[您的第一个Brand Concierge](../documentation/overview/first-brand-concierge.md)
+    + [Brand Concierge概述](../documentation/overview/overview.md)
+    + [您的第一个Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + 用户和访问管理 {#user-and-access-management}
-    + {hide-from-toc}[将用户添加到组织](../documentation/user-and-access-management/add-a-user-to-the-org.md)
-    + {hide-from-toc}[将用户添加到角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
-    + {hide-from-toc}[创建角色](../documentation/user-and-access-management/create-a-role.md)
+    + [将用户添加到组织](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + [将用户添加到角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + [创建角色](../documentation/user-and-access-management/create-a-role.md)
   + 知识来源 {#knowledge-sources}
-    + {hide-from-toc}[创建和管理Brand Concierge的知识源](../documentation/knowledge-sources/knowledge-sources.md)
+    + [创建和管理Brand Concierge的知识源](../documentation/knowledge-sources/knowledge-sources.md)
   + 礼宾管理 {#concierge-management}
-    + {hide-from-toc}[管理门房](../documentation/concierge-management/concierge-management.md)
+    + [管理门房](../documentation/concierge-management/concierge-management.md)
   + 评估 {#evaluation}
-    + {hide-from-toc}[评估门房](../documentation/evaluation/evaluation.md)
+    + [评估礼宾](../documentation/evaluation/evaluation.md)
   + 部署 {#deployment}
-    + {hide-from-toc}[部署门房](../documentation/deployment/deployment.md)
+    + [部署礼宾](../documentation/deployment/deployment.md)
   + 上线清单 {#go-live-checklist}
-    + {hide-from-toc}[门房的上线核对清单](../documentation/go-live-checklist/go-live-checklist.md)
+    + [门房的上线清单](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[分析门房表现](../documentation/analytics/analytics.md)
+    + [分析门房表现](../documentation/analytics/analytics.md)
 + 发行说明 {#release-notes}
   + [当前版本信息](../release-notes/current.md)
 + {hide-from-toc}[品牌礼宾演示 — 价值视频](../demo-videos/demo-for-brand-concierge-value-video.md)
