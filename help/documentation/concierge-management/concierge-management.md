@@ -2,10 +2,10 @@
 title: 管理门房
 description: 了解如何从网站创建Brand Concierge，配置其集成、技能、说明、音调和视觉风格，并在部署之前对其进行测试。
 toc: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 0%
+source-wordcount: '1761'
+ht-degree: 1%
 
 ---
 
@@ -161,10 +161,6 @@ Composer是用于构建和配置礼宾的界面，它使用两个相关的概念
 - 卡片颜色
 
 编辑用户界面中的设置，并使用实时预览查看更改。 选择&#x200B;**保存**&#x200B;使更改永久化。
-
->[!NOTE]
->
->源资料指出，完全自定义的外观可以通过单独的部署脚本在用户界面中提供的选项之外实现。 未包含deployment-script过程，确认后应单独记录该过程。
 
 ## 配置聊天组件
 

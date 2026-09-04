@@ -2,9 +2,9 @@
 title: 创建和管理Brand Concierge的知识源
 description: 了解如何为Brand Concierge创建AEM Sites、网站链接和产品目录知识源，监控处理状态和解决抓取问题。
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Brand Concierge支持以下知识源类型：
 
 >[!IMPORTANT]
 >
->通过包含大目录的Adobe Commerce进行销售的客户应改用Commerce MCP集成。 有关该集成的详细信息，不在本文讨论范围内。
+>通过包含大目录的Adobe Commerce进行销售的客户应改用Commerce MCP集成。
 
 ## 创建AEM Sites知识源
 
