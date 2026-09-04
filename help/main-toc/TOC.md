@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 19%
+source-wordcount: '154'
+ht-degree: 16%
 
 ---
 
@@ -39,17 +39,17 @@ ht-degree: 19%
     + {hide-from-toc}[将用户添加到角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[创建角色](../documentation/user-and-access-management/create-a-role.md)
   + 知识来源 {#knowledge-sources}
-    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + {hide-from-toc}[创建和管理Brand Concierge的知识源](../documentation/knowledge-sources/knowledge-sources.md)
   + 礼宾管理 {#concierge-management}
-    + {hide-from-toc}[厘米](../documentation/concierge-management/concierge-management.md)
+    + {hide-from-toc}[管理门房](../documentation/concierge-management/concierge-management.md)
   + 评估 {#evaluation}
-    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+    + {hide-from-toc}[评估门房](../documentation/evaluation/evaluation.md)
   + 部署 {#deployment}
-    + {hide-from-toc}[天](../documentation/deployment/deployment.md)
+    + {hide-from-toc}[部署门房](../documentation/deployment/deployment.md)
   + 上线清单 {#go-live-checklist}
-    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+    + {hide-from-toc}[门房的上线核对清单](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
+    + {hide-from-toc}[分析门房表现](../documentation/analytics/analytics.md)
 + 发行说明 {#release-notes}
   + [当前版本信息](../release-notes/current.md)
 + {hide-from-toc}[品牌礼宾演示 — 价值视频](../demo-videos/demo-for-brand-concierge-value-video.md)
