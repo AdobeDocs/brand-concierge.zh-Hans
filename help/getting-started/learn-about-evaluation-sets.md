@@ -32,6 +32,6 @@ ht-degree: 0%
 * 如何运行评估并查看总体分数和标记的问题
 * 如何将门房人员的实际响应与每个标记问题的预期响应进行比较
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502670?captions=chi_hans)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。

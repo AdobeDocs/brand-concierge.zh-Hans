@@ -32,6 +32,6 @@ ht-degree: 0%
 * 组件安装与脚本的全页安装选项比较
 * 如何通过匹配域和路径（任何、开头为、结尾为、等于）来配置表面规则
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502989?captions=chi_hans&learn=on)
 
 有关文档，请参阅[部署礼宾](../documentation/deployment/deployment.md)。
