@@ -31,6 +31,6 @@ Adobe Brand Concierge支持免提的语音对话模式，客户可与服务人�
 * 礼宾如何保持完整的多模态体验，在语音对话期间仍会返回图像、文本和链接
 * 如果不再需要，如何关闭声音
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503494?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
