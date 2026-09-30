@@ -1,5 +1,5 @@
 ---
-title: 测量质量并设置护栏 — 视频
+title: 测量质量并设置护栏
 description: 了解如何构建一组黄金问题和理想答案来衡量Adobe Brand Concierge质量，并为敏感访客问题定义护栏。
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ ht-degree: 0%
 * 要包含的问题和答案对数量以及要包含的类别
 * 为什么超出范围的示例很重要，以及门房如何拒绝它们
 * 使用人工智能生成的黄金集初稿并优化
-* 定义会议预订、现场代表切换、定价、法律声明和竞争对手提及的规则
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
