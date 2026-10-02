@@ -38,6 +38,6 @@ Adobe Brand Concierge可以使用您在创建门房时选择的语言做出响�
 * 选择的响应语言如何影响答案和入门提示卡
 * 导入的知识源（如目录和网站URL）如何支持本地化的响应
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503896?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。

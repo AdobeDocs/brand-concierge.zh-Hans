@@ -39,7 +39,7 @@ Adobe Brand Concierge只能回答您的问题，以及您提供的内容。 在�
 * 如何在共享内容之前准备内容
 * 如何编写单页访客历程定义
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496015/?captions=chi_hans&learn=on)
 
 ## 本系列中的相关视频
 
