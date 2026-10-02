@@ -6,16 +6,25 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-09-14
+last-substantial-update: 2026-09-14T00:00:00.000Z
 jira: KT-22594
-source-git-commit: e15924679ac2731ef367416160368459ef88167a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 ---
 # 语音对话
 
-Adobe Brand Concierge支持免提的语音对话模式，客户可与服务人员交谈，而不是打字。 此视频介绍启用语音模式、自动语音检测如何消除按下任何按钮的需求，以及语音如何适应礼宾员的完整多模式体验以及文本和视觉响应。
+Adobe Brand Concierge支持免提的语音对话模式，让客户与门房交谈，而不是打字。 此视频介绍启用语音模式、自动语音检测如何消除按下任何按钮的需求，以及语音如何适应礼宾员的完整多模式体验以及文本和视觉响应。
 
 ## 此视频面向谁？
 
@@ -31,6 +40,6 @@ Adobe Brand Concierge支持免提的语音对话模式，客户可与服务人�
 * 礼宾如何保持完整的多模态体验，在语音对话期间仍会返回图像、文本和链接
 * 如果不再需要，如何关闭声音
 
->[!VIDEO](https://video.tv.adobe.com/v/3503494?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。

@@ -1,13 +1,14 @@
 ---
 title: Brand Concierge概述
 description: 了解Brand Concierge是什么、其主要组件如何组合在一起，以及在整个编辑器界面中遇到的主要术语词汇表。
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 1%
-
 ---
-
 # Brand Concierge概述
 
 Brand Concierge是一个代理平台，它允许企业和品牌在其面向客户的表面（网站、移动应用程序和其他数字资产）上启动个性化的对话体验。 每个对话都基于品牌自己的内容和护栏，而集成功能让这些对话中的见解流入品牌生态系统的其他部分，如Marketo Engage。

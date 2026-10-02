@@ -1,13 +1,14 @@
 ---
 title: 构建和测试您的第一个Brand Concierge
 description: 创建门卫、自定义品牌体验、运行评估并共享预览链接以获取利益相关者反馈。
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
-
 ---
-
 # 构建和测试您的第一个Brand Concierge
 
 本文会介绍如何创建门房并准备进行审阅，从初始设置到共享它以供反馈。

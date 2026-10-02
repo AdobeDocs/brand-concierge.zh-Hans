@@ -3,13 +3,22 @@ title: 技能和集成框架
 description: 了解技能和集成如何在礼宾框架内协同工作。 技能定义了行为，而集成则与数据连接并提供功能。
 role: User, Admin
 level: Beginner
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 技能和集成框架 {#skills-and-integrations}
 
 集成（以前称为工具）是指与数据源或后端的连接。 技能是一种行为。

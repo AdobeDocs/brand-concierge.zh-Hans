@@ -6,15 +6,22 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10T00:00:00Z
+last-substantial-update: 2026-07-10T00:00:00.000Z
 jira: KT-21745
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
-
 ---
-
 
 # 欢迎使用上线历程
 
@@ -32,6 +39,6 @@ ht-degree: 0%
 * 您提供的内容与Adobe团队配置的内容
 * 典型的6到9周时间线以及影响时间线的因素
 
->[!VIDEO](https://video.tv.adobe.com/v/3495877/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
