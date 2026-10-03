@@ -6,15 +6,22 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 234
-last-substantial-update: 2026-08-25T00:00:00Z
+last-substantial-update: 2026-08-25T00:00:00.000Z
 jira: KT-22408
-source-git-commit: e4579efe202448c0c4dc85b3444abac6ed2834c2
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # 自定义礼宾的视觉风格
 
 Adobe Brand Concierge首先会提供Adobe已为您做出的可视化选择 — 从您的网站中拉出的调色板、字体和卡片图像。 在本视频中，您将回顾这些选择，并自定义欢迎消息和入门提示卡，以更好地匹配您的品牌。

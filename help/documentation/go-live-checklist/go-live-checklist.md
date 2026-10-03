@@ -2,13 +2,14 @@
 title: 门房的上线清单
 description: 使用此核对清单在可供实际访客使用之前检查礼宾部门的准备情况，并建立启动后的初始操作节奏。
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 
 # 门房的上线清单
 

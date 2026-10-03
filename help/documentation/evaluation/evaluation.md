@@ -2,13 +2,14 @@
 title: 评估礼宾
 description: 了解如何创建评估集并执行功能性、范围外和保障性评估，以评估门房经理响应的准确性和安全性。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
-
 ---
-
 
 # 评估礼宾
 

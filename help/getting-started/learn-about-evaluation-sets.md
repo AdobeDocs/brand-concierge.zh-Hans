@@ -6,15 +6,22 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 265
-last-substantial-update: 2026-09-01T00:00:00Z
+last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22481
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
-
 ---
-
 # 了解评估集
 
 评估可告知您Adobe Brand Concierge是否正确回答、是否在范围之内以及是否安全地处理复杂的问题。 本视频介绍了三种评估类型 — 功能、超出范围和保护 — 并演示了如何构建评估集、运行评估集以及在上线之前查看标记的结果。

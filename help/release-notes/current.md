@@ -2,13 +2,14 @@
 description: Adobe Brand Concierge的最新发行说明。
 title: 最新发行说明
 feature: Release Information
-source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1046'
 ht-degree: 0%
-
 ---
-
 # 最新发行信息 {#current-release-notes}
 
 Adobe Brand Concierge遵循持续交付模型，允许Adobe持续交付新功能、增强功能和修复。

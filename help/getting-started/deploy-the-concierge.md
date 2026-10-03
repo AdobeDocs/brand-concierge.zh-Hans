@@ -6,18 +6,25 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22483
-source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # 部署礼宾
 
-通过部署Adobe Brand Concierge，真正的网站访客可以使用该功能。 此视频介绍如何配置数据流以跟踪访客参与情况，然后设置表面配置来控制礼宾员在哪些页面和域上显示。
+部署Adobe Brand Concierge后，真正的网站访客便可以使用该功能。 此视频介绍如何配置数据流以跟踪访客参与情况，然后设置表面配置来控制礼宾员在哪些页面和域上显示。
 
 ## 此视频面向谁？
 
