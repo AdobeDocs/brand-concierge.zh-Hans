@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 
@@ -38,5 +38,14 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
 
 从内部团队成员开始，测试完整的端到端流程。 然后，考虑少量初始推出，例如目标页面的5%，然后再扩展到25%、50%，最后是100%。 这些是示例阶段，而不是固定计划。 完整推出后至少每周通过您的Analytics功能板继续监控。
+
+## 相关教程
+
+* [欢迎使用上线历程](welcome.md)
+* [塑造您的声音和小部件](voice-and-visuals.md)
+* [准备内容和访客历程](content-and-journey.md)
+* [测量质量和设置护栏](measuring-quality-and-setting-guardrails.md)
+* [技术设置和可选功能](technical-setup-and-optional-features.md)
+* [Brand Concierge上线核对清单播放列表](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。

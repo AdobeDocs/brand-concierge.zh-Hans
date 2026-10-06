@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '229'
 ht-degree: 0%
 ---
 # 技术设置和可选功能
@@ -41,6 +41,15 @@ ht-degree: 0%
 * 通过代表可用性、访客触发器和会议预订回退启用实时聊天
 * 连接Marketo Engage以接收商机和活动，并具有管理员访问权限和功能标记
 
->[!VIDEO](https://video.tv.adobe.com/v/3504083/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+
+## 相关教程
+
+* [欢迎使用上线历程](welcome.md)
+* [塑造您的声音和小部件](voice-and-visuals.md)
+* [准备内容和访客历程](content-and-journey.md)
+* [测量质量和设置护栏](measuring-quality-and-setting-guardrails.md)
+* [您的上线前核对清单和推出计划](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge上线核对清单播放列表](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
