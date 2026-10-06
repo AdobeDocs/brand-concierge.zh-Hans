@@ -35,7 +35,7 @@ ht-degree: 0%
 * 获得利益相关者的批准，并在他们参与时，使用Adobe资源确认技术就绪性。
 * 计划逐步推出，仅在结果支持下一阶段时推进。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504114/?captions=chi_hans&learn=on)
 
 从内部团队成员开始，测试完整的端到端流程。 然后，考虑少量初始推出，例如目标页面的5%，然后再扩展到25%、50%，最后是100%。 这些是示例阶段，而不是固定计划。 完整推出后至少每周通过您的Analytics功能板继续监控。
 

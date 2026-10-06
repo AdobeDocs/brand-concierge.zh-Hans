@@ -39,7 +39,7 @@ ht-degree: 0%
 * 您提供的内容与Adobe团队配置的内容
 * 典型的6到9周时间线以及影响时间线的因素
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495877/?captions=chi_hans&learn=on)
 
 ## 相关教程
 

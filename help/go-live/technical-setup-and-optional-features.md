@@ -41,7 +41,7 @@ ht-degree: 0%
 * 通过代表可用性、访客触发器和会议预订回退启用实时聊天
 * 连接Marketo Engage以接收商机和活动，并具有管理员访问权限和功能标记
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504083/?captions=chi_hans&learn=on)
 
 ## 相关教程
 

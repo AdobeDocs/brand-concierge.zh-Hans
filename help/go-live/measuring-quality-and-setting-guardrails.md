@@ -41,7 +41,7 @@ ht-degree: 0%
 * 为什么超出范围的示例很重要，以及门房如何拒绝它们
 * 使用人工智能生成的黄金集初稿并优化
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503950/?captions=chi_hans&learn=on)
 
 ## 相关教程
 
