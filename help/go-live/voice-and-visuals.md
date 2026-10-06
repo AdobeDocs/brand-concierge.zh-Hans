@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '180'
 ht-degree: 0%
 ---
 
@@ -40,5 +40,14 @@ ht-degree: 0%
 * 命名助手、编写其问候语并选择起始提示
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496950/?captions=chi_hans&learn=on)
+
+## 相关教程
+
+* [欢迎使用上线历程](welcome.md)
+* [准备内容和访客历程](content-and-journey.md)
+* [测量质量和设置护栏](measuring-quality-and-setting-guardrails.md)
+* [技术设置和可选功能](technical-setup-and-optional-features.md)
+* [您的上线前核对清单和推出计划](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge上线核对清单播放列表](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
