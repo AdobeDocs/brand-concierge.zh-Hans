@@ -50,6 +50,6 @@ ht-degree: 0%
 * [准备内容和访客历程](content-and-journey.md)
 * [测量质量和设置护栏](measuring-quality-and-setting-guardrails.md)
 * [您的上线前核对清单和推出计划](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge上线核对清单播放列表](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge上线核对清单播放列表](https://experienceleague.adobe.com/zh-hans/playlists/brand-concierge-go-live-checklist)
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
