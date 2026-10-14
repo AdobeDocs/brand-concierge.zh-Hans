@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '183'
 ht-degree: 14%
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 14%
   + [自定义礼宾的视觉风格](../getting-started/customize-visual-style.md)
   + [了解评估集](../getting-started/learn-about-evaluation-sets.md)
   + [部署礼宾](../getting-started/deploy-the-concierge.md)
+  + [使用Adobe CX Enterprise Coworker导出对话](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
 + 上线指南 {#go-live-guide}
   + [欢迎使用上线历程](../go-live/welcome.md)
   + [准备内容和访客体验](../go-live/content-and-journey.md)
