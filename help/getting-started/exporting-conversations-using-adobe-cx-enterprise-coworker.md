@@ -5,12 +5,12 @@ topic: Data Distiller
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 173
+duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 ---
 # 使用Adobe CX Enterprise Coworker导出对话
@@ -35,3 +35,7 @@ ht-degree: 0%
 > 如果您的组织中不提供Data Distiller，Co-worker将无法创建此视频中显示的CSV下载。
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
+
+## 相关教程
+
+* [使用查询服务和终端导出对话](exporting-conversations-using-query-service-and-terminal.md)
