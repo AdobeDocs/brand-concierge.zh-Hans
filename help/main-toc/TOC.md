@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: 4120fe43e9144b63b2f26eed8798a82a46a2dd77
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '192'
 ht-degree: 13%
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 13%
   + [会议](../documentation/meetings.md)
   + [技能和集成框架](../documentation/skills-and-integrations.md)
   + [开发人员和自定义指南](../documentation/developer-customization-guide.md)
+  + {hide-from-toc}[语音对话](../documentation/voice-conversation.md)
   + [常见问题解答](../documentation/brand-concierge-faq.md)
   + 概述 {#overview}
     + [Brand Concierge概述](../documentation/overview/overview.md)
