@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: de739f5ff45550a953e88a62c42c6beade126a96
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # 使用Adobe CX Enterprise Coworker导出对话
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 如果您的组织中不提供Data Distiller，Co-worker将无法创建此视频中显示的CSV下载。
+> 如果您的组织中不提供Data Distiller，Co-worker将无法创建此视频中显示的CSV下载。 选择[观看查询服务和终端视频](exporting-conversations-using-query-service-and-terminal.md)以了解如何使用“终端”将对话数据导出到CSV文件。
 
 有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
 
