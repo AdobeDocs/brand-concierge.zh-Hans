@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 4120fe43e9144b63b2f26eed8798a82a46a2dd77
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -22,6 +22,7 @@ ht-degree: 14%
   + [了解评估集](../getting-started/learn-about-evaluation-sets.md)
   + [部署礼宾](../getting-started/deploy-the-concierge.md)
   + [使用Adobe CX Enterprise Coworker导出对话](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [使用查询服务和终端导出对话](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + 上线指南 {#go-live-guide}
   + [欢迎使用上线历程](../go-live/welcome.md)
   + [准备内容和访客体验](../go-live/content-and-journey.md)
@@ -34,6 +35,7 @@ ht-degree: 14%
   + [会议](../documentation/meetings.md)
   + [技能和集成框架](../documentation/skills-and-integrations.md)
   + [开发人员和自定义指南](../documentation/developer-customization-guide.md)
+  + {hide-from-toc}[语音对话](../documentation/voice-conversation.md)
   + [常见问题解答](../documentation/brand-concierge-faq.md)
   + 概述 {#overview}
     + [Brand Concierge概述](../documentation/overview/overview.md)
