@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # 启用语音对话
@@ -25,13 +25,13 @@ Adobe Brand Concierge中的语音对话让访客与门房交谈，而不是打�
 
 ## 如何启用语音
 
-1. 在&#x200B;**主页**&#x200B;屏幕的&#x200B;**您的门房**&#x200B;下，选择要编辑的门房。
+1. 在&#x200B;**主页**&#x200B;屏幕的&#x200B;**您的门卫**&#x200B;下，选择要启用语音的门卫。
 
-   ![Brand Concierge主屏幕，Adobe礼宾卡在“您的礼宾”下突出显示](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Concierge主屏幕，Adobe礼宾卡在“您的礼宾”下突出显示](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. 在&#x200B;**设计**&#x200B;选项卡中，选择&#x200B;**语音**。
 
-   在Brand Expression下方的左侧面板中，使用“语音”选项高亮显示的礼宾的![设计选项卡](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   在Brand Expression下方的左侧面板中，使用“语音”选项高亮显示的礼宾的![设计选项卡](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Adobe Brand Concierge中的语音对话让访客与门房交谈，而不是打�
 
 ## 如何禁用语音
 
-1. 在&#x200B;**主页**&#x200B;屏幕的&#x200B;**您的门房**&#x200B;下，选择要编辑的门房。
+1. 在&#x200B;**主页**&#x200B;屏幕的&#x200B;**您的门卫**&#x200B;下，选择要禁用语音的门卫。
 
 1. 在&#x200B;**设计**&#x200B;选项卡中，选择&#x200B;**语音**。
 
