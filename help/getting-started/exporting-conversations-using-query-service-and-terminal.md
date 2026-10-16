@@ -29,7 +29,7 @@ ht-degree: 0%
 * 选择数据集和日期范围，然后将查询结果导出到本地CSV文件
 * 检查导出的结果，并在需要时刷新过期的凭据
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504651?captions=chi_hans)
 
 ```bash
 psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
