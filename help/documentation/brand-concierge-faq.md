@@ -1,29 +1,36 @@
 ---
-title: 常见问题解答
+title: 常见问题
 description: 获取有关Adobe Brand Concierge的常见问题解答。
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # 常见问题
 
 有关Brand Concierge的常见问题解答，请阅读此部分。
@@ -141,7 +148,7 @@ Brand Concierge包含内置测试工具：
 
 ### 客户能否安排与我们团队的会议？
 
-是，客户可以使用“会议预订”技能安排与团队的会议。 要启用此功能，请激活技能配置中的技能，定义激活意图（如“与销售人员交谈”），连接日历或计划系统，并设置可用性和会议类型。 配置完毕后，客户可以在对话期间请求召开会议，Brand Concierge将简化安排过程，而无需客户离开聊天。
+是的。 客户可以通过&#x200B;**Meeting Booking**&#x200B;和&#x200B;**Live Chat**&#x200B;集成，使用&#x200B;**移交给销售人员**&#x200B;技能安排与团队的会议，或与代表开始实时聊天。 代表连接其日历并在Adobe Marketo Qualifier中设置其可用性，您可以选择将访客路由到访客的方式，然后在编辑器中激活该技能并定义触发该技能的意图。 配置完毕后，客户可以在对话期间请求会议或实时聊天，而无需离开聊天。 查看[Live Chat和会议预订](sales-handoff/overview.md)。
 
 ### 我的知识库中的初始Q&amp;A对是如何生成的？
 
@@ -207,9 +214,9 @@ Adobe的顾问在后台处理即时工程：
 | 集成选项 | 功能 |
 |-------------------|--------------|
 | **独立** | 使用您的产品目录和内容 |
-| 使用Adobe Experience Platform **&#x200B;**&#x200B;| 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
-| 使用Adobe Commerce **&#x200B;**&#x200B;| 实时库存<br>订单历史记录<br>购物车集成 |
-| 使用Adobe Experience Manager **&#x200B;**&#x200B;| 内容管理<br>动态更新<br>多站点支持 |
+| 使用Adobe Experience Platform **** | 统一客户配置文件<br>高级个性化<br>跨渠道一致性 |
+| 使用Adobe Commerce **** | 实时库存<br>订单历史记录<br>购物车集成 |
+| 使用Adobe Experience Manager **** | 内容管理<br>动态更新<br>多站点支持 |
 
 ### Adobe Commerce集成如何工作，是否支持将Commerce作为PaaS？
 

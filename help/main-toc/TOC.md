@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '223'
 ht-degree: 13%
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 13%
   + [您的上线前核对清单和推出计划](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + 文档 {#documentation}
   + [Brand Concierge帮助](../documentation/overview.md)
-  + [会议](../documentation/meetings.md)
   + [技能和集成框架](../documentation/skills-and-integrations.md)
   + [开发人员和自定义指南](../documentation/developer-customization-guide.md)
   + [语音对话](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 13%
     + [创建和管理Brand Concierge的知识源](../documentation/knowledge-sources/knowledge-sources.md)
   + 礼宾管理 {#concierge-management}
     + [管理门房](../documentation/concierge-management/concierge-management.md)
+  + Live Chat和会议预订 {#sales-handoff}
+    + [概述](../documentation/sales-handoff/overview.md)
+    + [设置代表](../documentation/sales-handoff/representative-setup.md)
+    + [将对话路由给代表](../documentation/sales-handoff/routing-rules.md)
+    + [激活Live Chat和Meeting预订](../documentation/sales-handoff/configure-in-composer.md)
+    + [聊天收件箱](../documentation/sales-handoff/chat-inbox.md)
+    + [Marketo Engage中的Brand Concierge数据](../documentation/sales-handoff/marketo-activities.md)
+    + [监测会议和实时聊天](../documentation/sales-handoff/monitor.md)
   + 评估 {#evaluation}
     + [评估礼宾](../documentation/evaluation/evaluation.md)
   + 部署 {#deployment}

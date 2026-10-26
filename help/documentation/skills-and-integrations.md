@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1705'
 ht-degree: 0%
 ---
 # 技能和集成框架 {#skills-and-integrations}
@@ -81,8 +81,8 @@ _站点咨询技能示例_
 | 内容AI 搜索 | 通过内容人工智能搜索品牌内容 | 替代内容源；通常一次只需要一个知识库搜索或内容AI 搜索 |
 | 实体链接 | 将用户消息中的一个或多个产品品牌提及解析到特定目录实体 | 支持集成，与搜索集成一起使用，而不是单独使用 |
 | COMMERCE MCP | Adobe管理的Commerce MCP服务器：产品搜索、详细信息、变体以及Facet/属性发现，由Adobe Live Search提供支持 | 不在基线中；为Commerce用例手动添加 |
-| 会议预订 | 允许访客预订与销售代表的会议 | 需要通过随附的Sales Qualifier产品设置销售代表的日历 |
-| 实时聊天 | 将访客与实时销售代表连接起来 | 需要通过随附的Sales Qualifier产品设置销售代表的可用性 |
+| 会议预订 | 允许访客预订与销售代表的会议 | 需要通过随附[!DNL Adobe Marketo Qualifier]产品使用销售代表的日历进行设置。 查看[Live Chat和会议预订](sales-handoff/overview.md) |
+| 实时聊天 | 将访客与实时销售代表连接起来 | 需要通过随附[!DNL Adobe Marketo Qualifier]产品设置销售代表的可用性。 查看[Live Chat和会议预订](sales-handoff/overview.md) |
 
 ![显示四个集成卡的“浏览集成”面板：“内容AI 搜索”、“实体链接”、“知识库搜索”和“Commerce MCP”](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,8 +96,7 @@ _站点咨询技能示例_
 | 产品咨询 | 发现并研究产品：基于名称的产品卡和散文产品问题 | 知识库搜索，实体链接 |
 | Adobe Commerce目录发现 | 根据实时目录搜索、浏览、筛选和获取有关产品的完整详细信息 | Commerce MCP工具：搜索Commerce产品、产品详细信息、产品变型、产品Facet和可搜索属性 |
 | Adobe Commerce产品比较 | Commerce表中两个或多个命名产品的并排比较 | Commerce MCP工具：搜索Commerce产品、产品详细信息 |
-| 与销售人员预约会议 | 建议并方便预订与销售代表的会议 | Meeting Booking集成 |
-| 与销售人员实时聊天 | 建议并方便向销售代表进行即时聊天切换 | 实时聊天集成 |
+| 移交给销售人员 | 通过可用工具将访客与公司顾问关联起来：建议并方便实时聊天或会议预订。 查看[激活Live Chat和会议预订](sales-handoff/configure-in-composer.md) | Live Chat、会议预订 |
 
 这两种商业技能属于仅目录功能，依赖于Commerce MCP集成，该集成不是基线的一部分。 在非商业门房中，网站咨询和产品咨询针对自动创建的知识库搜索运行。
 

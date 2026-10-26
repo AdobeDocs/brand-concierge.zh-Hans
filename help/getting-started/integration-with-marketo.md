@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # 与Marketo集成
@@ -36,6 +36,6 @@ ht-degree: 0%
 * 潜在客户的活动日志中记录的本机“在礼宾室中计划的会议”活动类型，具有完整上下文：会议持续时间、销售步骤、路由类型和预订状态
 * 如何在Marketo Smart Campaigns中使用Brand Concierge活动类型 — 作为触发器、过滤器或批量活动数据
 
->[!VIDEO](https://video.tv.adobe.com/v/3492258?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-有关文档，请参阅[Brand Concierge帮助](../documentation/overview.md)。
+有关文档，请参阅Marketo Engage中的[Brand Concierge数据](../documentation/sales-handoff/marketo-activities.md)。

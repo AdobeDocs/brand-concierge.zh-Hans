@@ -5,9 +5,9 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1702'
 ht-degree: 1%
 ---
 
@@ -77,8 +77,8 @@ Composer是用于构建和配置礼宾的界面，它使用两个相关的概念
 | 内容AI 搜索 | 搜索AEM Sites内容 | 与AEM Sites as a Cloud Service的客户相关 |
 | 实体链接 | 将访客消息中的产品或品牌提及解析到特定目录实体 | 支持集成，通常与搜索集成一起使用，而不是单独使用 |
 | COMMERCE MCP | 连接到实时Adobe Commerce目录以进行产品搜索、产品详细信息和比较 | 默认情况下未启用；需要商业或IT团队提供的代码或密钥 |
-| 会议预订 | 允许访客预订与销售代表的会议 | 需要使用销售代表的日历进行设置 |
-| 实时聊天 | 将访客与实时销售代表连接起来 | 需要设置销售代表的可用性 |
+| 会议预订 | 允许访客预订与销售代表的会议 | 需要使用销售代表的日历进行设置。 查看[Live Chat和会议预订](../sales-handoff/overview.md) |
+| 实时聊天 | 将访客与实时销售代表连接起来 | 需要设置销售代表的可用性。 查看[Live Chat和会议预订](../sales-handoff/overview.md) |
 
 ### 打开并配置集成
 
@@ -107,8 +107,7 @@ Composer是用于构建和配置礼宾的界面，它使用两个相关的概念
 | 产品咨询 | 帮助访客通过基于名称的产品卡来发现和研究产品，并回答产品问题 | 知识库搜索，实体链接 |
 | Adobe Commerce目录发现 | 搜索、浏览、筛选和检索有关实时目录中的产品的详细信息 | Commerce MCP集成 |
 | Adobe Commerce产品比较 | 提供指定产品的并排比较 | Commerce MCP集成 |
-| 与销售人员预约会议 | 建议并方便预订会议 | Meeting Booking集成 |
-| 与销售人员实时聊天 | 建议并帮助实时聊天切换 | 实时聊天集成 |
+| 移交给销售人员 | 建议和促进与销售代表或会议预订的实时聊天 | Live Chat集成、Meeting Booking集成 |
 
 ### 打开并配置技能
 
@@ -179,34 +178,22 @@ Composer是用于构建和配置礼宾的界面，它使用两个相关的概念
 
 ## 配置会议预订和Live Chat
 
-Meeting Booking和Live Chat允许访客预约与销售代表的会议或开始与代表进行实时聊天。 这些功能由名为Sales Qualifier的配套产品提供支持。
+Meeting Booking和Live Chat允许访客预约与销售代表的会议或开始与代表进行实时聊天。 这些功能由名为[!DNL Adobe Marketo Qualifier]的配套产品提供支持，并通过&#x200B;**[!UICONTROL 移交给销售人员]**&#x200B;技能提供给访客。
 
 ### 角色和职责
 
 - **营销人员：**&#x200B;在Brand Concierge中配置技能和集成。
-- **销售代表：**&#x200B;连接他们自己的日历并配置可用性。
+- **销售代表：**&#x200B;连接他们自己的日历并在[!DNL Adobe Marketo Qualifier]中配置可用性。
 
 ### 设置Meeting Booking或Live Chat
 
-1. 在&#x200B;**浏览集成**&#x200B;中，打开&#x200B;**会议预订**&#x200B;或&#x200B;**实时聊天**。 默认情况下，组织中的所有人都可作为潜在的团队成员使用；在此阶段无需单独添加团队成员。
+有关完整过程，请参阅[Live Chat和会议预订](../sales-handoff/overview.md)。 设置分为四个部分：
 
-1. 让每位销售代表登录到`experienceplatform.adobe.com`，打开&#x200B;**Sales Qualifier**，然后转到&#x200B;**配置文件设置**。
+1. [在Adobe Marketo Qualifier中设置代表](../sales-handoff/representative-setup.md) — 连接日历、定义确认电子邮件并设置日历和实时聊天可用性。
 
-1. 让每位代表连接日历，如Outlook。 可以选择包含Microsoft Teams。 代表还可以设置会议邀请主题和电子邮件文本。
+1. [将对话路由到代表](../sales-handoff/routing-rules.md) — 选择循环调度法、直接代理或自定义路由规则。
 
-1. 配置可用性。 默认情况下，可用性是从日历中提取的，并且可通过以下方式进行进一步限制：
-   - 会议时长
-   - 会议之间的缓冲时间
-   - 最低要求通知
-   - 特定可用时间窗口
-
-1. 使用类似的过程单独配置Live Chat可用性。
-
-1. 在Brand Concierge中，打开&#x200B;**托管成员**，并确认显示有可用的代表。
-
-1. 打开&#x200B;**Meeting Booking**&#x200B;和/或&#x200B;**Live Chat**&#x200B;集成。
-
-1. 转到&#x200B;**浏览技能**&#x200B;并选择&#x200B;**与销售人员预约会议**&#x200B;和/或&#x200B;**与销售人员实时聊天**。 设置触发器，附加相应的集成，然后保存技能。
+1. [激活Live Chat和Meeting预订](../sales-handoff/configure-in-composer.md) — 连接&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL Live Chat]**&#x200B;集成，然后激活&#x200B;**[!UICONTROL 移交给销售人员]**&#x200B;技能。
 
 1. 选择&#x200B;**模拟**&#x200B;以测试端到端体验。 输入一个示例问题，并确认它通向正确的技能和参与流程。
 
@@ -214,10 +201,9 @@ Meeting Booking和Live Chat允许访客预约与销售代表的会议或开始�
 
 在功能上线时：
 
-- 传入的实时聊天会实时向可用的代表显示。
-- 预订的会议会显示在会议视图中。
-- 会议性能报告可在Analytics中使用。
-- 会议和聊天参与将作为活动与现有活动数据一起发送到Marketo。
+- 在[聊天收件箱](../sales-handoff/chat-inbox.md)中实时向可用代表显示传入的实时聊天。
+- 预订的会议会显示在会议视图中，并且会议性能报告可在Analytics中使用。 查看[监视会议和实时聊天](../sales-handoff/monitor.md)。
+- 会议和聊天参与将作为活动与现有活动数据一起发送到Marketo。 查看Marketo Engage中的[Brand Concierge数据](../sales-handoff/marketo-activities.md)。
 
 ## 共享预览链接
 
