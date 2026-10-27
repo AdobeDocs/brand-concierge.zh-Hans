@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Adobe Brand Concierge遵循持续交付模型，允许Adobe持续交付新功能
 
 ## 2026 年 9 月 {#september-2026}
 
-* **Composer 2.0**&#x200B;中的Live Chat和Meeting Booking： Live Chat和Meeting Booking在Composer的Browse集成面板中作为内置集成提供，而新的销售技能移交将根据访客意图决定何时提供这些功能。 查看[激活Live Chat和Meeting预订](../documentation/sales-handoff/configure-in-composer.md)。
+* **Composer 2.0**&#x200B;中的Live Chat和Meeting Booking： Live Chat和Meeting Booking在Composer的Browse集成面板中作为内置集成提供，而新的销售技能移交将根据访客意图确定何时提供这些功能。 查看[激活Live Chat和会议预订](../documentation/sales-handoff/configure-in-composer.md)。
 
 * **自定义路由规则**：使用多个条件组以及AND和OR、优先级规则和多个分配的代表，根据Marketo商机和公司属性构建路由规则，以将访客发送给合适的代表。 自定义路由适用于会议预订和Live Chat。 查看[将对话路由到代表](../documentation/sales-handoff/routing-rules.md)。
 

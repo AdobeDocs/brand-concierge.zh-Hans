@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ Composer是用于构建和配置礼宾的界面，它使用两个相关的概念
 | 内容AI 搜索 | 搜索AEM Sites内容 | 与AEM Sites as a Cloud Service的客户相关 |
 | 实体链接 | 将访客消息中的产品或品牌提及解析到特定目录实体 | 支持集成，通常与搜索集成一起使用，而不是单独使用 |
 | COMMERCE MCP | 连接到实时Adobe Commerce目录以进行产品搜索、产品详细信息和比较 | 默认情况下未启用；需要商业或IT团队提供的代码或密钥 |
-| 会议预订 | 允许访客预订与销售代表的会议 | 需要使用销售代表的日历进行设置。 查看[Live Chat和会议预订](../sales-handoff/overview.md) |
-| 实时聊天 | 将访客与实时销售代表连接起来 | 需要设置销售代表的可用性。 查看[Live Chat和会议预订](../sales-handoff/overview.md) |
+| 会议预订 | 允许访客预订与销售代表的会议 | 需要使用销售代表的日历进行设置。 查看[Live Chat和会议预订](../sales-handoff/overview.md)。 |
+| 实时聊天 | 将访客与实时销售代表连接起来 | 需要设置销售代表的可用性。 查看[Live Chat和会议预订](../sales-handoff/overview.md)。 |
 
 ### 打开并配置集成
 
@@ -193,7 +193,7 @@ Meeting Booking和Live Chat允许访客预约与销售代表的会议或开始�
 
 1. [将对话路由到代表](../sales-handoff/routing-rules.md) — 选择循环调度法、直接代理或自定义路由规则。
 
-1. [激活Live Chat和Meeting预订](../sales-handoff/configure-in-composer.md) — 连接&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL Live Chat]**&#x200B;集成，然后激活&#x200B;**[!UICONTROL 移交给销售人员]**&#x200B;技能。
+1. [激活Live Chat和会议预订](../sales-handoff/configure-in-composer.md) — 连接&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL Live Chat]**&#x200B;集成，然后激活&#x200B;**[!UICONTROL 移交给销售人员]**&#x200B;技能。
 
 1. 选择&#x200B;**模拟**&#x200B;以测试端到端体验。 输入一个示例问题，并确认它通向正确的技能和参与流程。
 

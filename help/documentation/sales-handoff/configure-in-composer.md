@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 激活Live Chat和Meeting预订 {#configure-in-composer}
@@ -27,7 +27,7 @@ Composer中必须具备两项功能。 通过&#x200B;**[!UICONTROL Meeting Booki
 >
 >首先完成[在Adobe Marketo Qualifier](representative-setup.md)中设置代表。 集成会检查连接的日历和实时聊天可用性，如果没有它们，则无法激活。
 
-## 连接Meeting Booking集成 {#connect-meeting-booking}
+## 连接会议预订集成 {#connect-meeting-booking}
 
 1. 在Composer中，打开您的门房并选择&#x200B;**[!UICONTROL 集成]** > **[!UICONTROL 浏览集成]**。
 
@@ -100,7 +100,7 @@ Composer中必须具备两项功能。 通过&#x200B;**[!UICONTROL Meeting Booki
    | 竞争比较 | 将您的解决方案与竞争对手的备选解决方案进行比较、区别对待，或从竞争对手平台进行迁移 |
    | 试用和POC访问 | 试用设置、游乐场访问、概念验证或试点 |
    | 合同和许可更改 | 合同续订、期限延长或计划升级 |
-   | 采购RFP或RFI | 提交、回复、供应商调查表、采购表单或合规性文档 |
+   | 采购RFP或RFI | RFP或RFI提交和回复、供应商调查表、采购表或合规性文档 |
    | 演示 | 产品演示或演练 |
 
    选择&#x200B;**[!UICONTROL 添加条件]**&#x200B;以添加您自己的意图，或删除任何不适用于您的业务的条件。
@@ -123,6 +123,6 @@ Composer中必须具备两项功能。 通过&#x200B;**[!UICONTROL Meeting Booki
 
 如果行为正确，请发布您的礼宾以在您的网站上进行切换。
 
-## 下一步 {#next}
+## 后续步骤 {#next-steps}
 
-您的代表现在可以接收聊天。 查看[聊天收件箱](chat-inbox.md)。
+您的代表现在可以接收聊天和会议预订。 若要了解代表如何处理聊天，请参阅[聊天收件箱](chat-inbox.md)。

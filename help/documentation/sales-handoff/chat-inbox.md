@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # 聊天收件箱 {#chat-inbox}
 
 当访客请求与某人交谈时，聊天会进入[!DNL Adobe Marketo Qualifier]中的&#x200B;**[!UICONTROL 聊天收件箱]**。 此页面是代表对实时聊天内容的查看：您看到的实时聊天内容、您获得的上下文以及在关闭该页面之前必须执行的操作。
 
-若要打开该文件夹，请在&#x200B;**[!UICONTROL 活动]**&#x200B;下的左侧面板中选择&#x200B;**[!UICONTROL 聊天收件箱]**。
+要打开聊天收件箱，请在&#x200B;**[!UICONTROL 活动]**&#x200B;下的左侧面板中选择&#x200B;**[!UICONTROL 聊天收件箱]**。
 
 ## 接收聊天 {#receive}
 

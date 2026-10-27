@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # 预约会议
 
-了解 Adobe Brand Concierge 中的预订会议功能。 这个视频教程中涵盖了一些主题，包括面向客户的体验是怎样的、如何通过管理员配置连接日程表，以及一些仪表板和报告。
+了解Adobe Brand Concierge中的会议预订功能。 本视频教程中涵盖的主题包括面向客户的体验的外观、用于连接日历的管理员配置以及查看一些功能板和报表。
 
 ## 此视频面向谁？
 
@@ -48,6 +48,6 @@ ht-degree: 49%
 * 了解向实时代理传输数据的速度和轻松程度
 * 了解如何管理和配置这些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478544?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 有关更多文档，请参阅[Live Chat和会议预订](../documentation/sales-handoff/overview.md)。
