@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # 最新发行信息 {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Concierge遵循持续交付模型，允许Adobe持续交付新功能、增强功能和修复。
 
 除非另有说明，否则所有功能通常都可用。
+
+## 2026年10 {#october-2026}
+
+* **实时聊天会话得分**：销售代表在结束实时聊天前对每次实时聊天进行评分，从最低级别到最高级别按0到3的级数进行。 得分存储在潜在客户记录中，并作为对Marketo Engage过滤器和触发器的限制提供，因此它可以推动潜在客户评分、重新定位、个性化和CRM切换。 查看[为对话评分](../documentation/sales-handoff/chat-inbox.md#conversation-score)。
+
+* **Marketo Engage配置文件中的Brand Concierge活动**： Concierge参与作为三种本机活动类型写入Marketo人员记录： Engage with Concierge、Schedule Meeting in Concierge和Engage with Live Chat in Concierge。 这三者都可用作智能列表中的触发器和过滤器，并带有诸如对话分数、会议状态、路由类型和销售代表等约束。 查看Marketo Engage中的[Brand Concierge数据](../documentation/sales-handoff/marketo-activities.md)。
+
+* **访客面板中的完整Marketo个人资料**：聊天收件箱会在对话旁显示访客的个人资料，包括他们在聊天前表单中共享的详细信息，以便代表在回复之前拥有完整上下文。
+
+* **多渠道路由通知**：代表将收到跨渠道传入实时聊天的通知，因此聊天提取速度更快。
+
+## 2026 年 9 月 {#september-2026}
+
+* **Composer 2.0**&#x200B;中的Live Chat和Meeting Booking： Live Chat和Meeting Booking在Composer的Browse集成面板中作为内置集成提供，而新的销售技能移交将根据访客意图决定何时提供这些功能。 查看[激活Live Chat和Meeting预订](../documentation/sales-handoff/configure-in-composer.md)。
+
+* **自定义路由规则**：使用多个条件组以及AND和OR、优先级规则和多个分配的代表，根据Marketo商机和公司属性构建路由规则，以将访客发送给合适的代表。 自定义路由适用于会议预订和Live Chat。 查看[将对话路由到代表](../documentation/sales-handoff/routing-rules.md)。
 
 ## 2026 年 8 月 {#august-2026}
 
