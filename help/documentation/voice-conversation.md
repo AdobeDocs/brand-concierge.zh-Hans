@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # 启用语音对话
@@ -66,3 +66,7 @@ Adobe Brand Concierge中的语音对话让访客与门房交谈，而不是打�
 1. 在&#x200B;**设计**&#x200B;选项卡中，选择&#x200B;**语音**。
 
 1. 在&#x200B;_语音_&#x200B;面板中，禁用要关闭的选项，然后选择&#x200B;**保存**。
+
+## 视频演示
+
+若要查看语音对话的实际操作情况，请查看[视频演示](/help/getting-started/voice-conversation.md)。

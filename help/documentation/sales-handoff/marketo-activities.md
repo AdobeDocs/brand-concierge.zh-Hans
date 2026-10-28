@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '785'
 ht-degree: 4%
 ---
 # Marketo Engage中的Brand Concierge数据 {#marketo-activities}
@@ -61,13 +61,13 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此活动类型中的某些属性（包括讨论的主题、摘要和语言）尚未填充。 计划在将来的版本中发布它们。
+>此活动类型的一些属性（包括讨论的主题、摘要和语言）计划在未来版本中发布。
 
 ### 在礼宾处安排会议 {#schedule-meeting}
 
-为单次预订记录了&#x200B;**两次**，这使您可以将意图与结果分开。
+为单次预订记录两次，这让您能够区分意图和结果。
 
-**首先，启动时。** 访客选择了安排会议的选项，此时会显示预订表单。 会议状态为`Started`。
+首先，启动时：访客选择了安排会议的选项，并且会显示预订表单。 会议状态为`Started`。
 
 | 属性 | 说明 |
 | --- | --- |
@@ -76,7 +76,7 @@ ht-degree: 4%
 | 礼宾ID | 访客参与的服务台 |
 | 人员 ID | [!DNL Marketo]个人记录 |
 
-**然后，在预订时。** 访客确认了插槽。 会议状态为`Scheduled`。
+然后，在预订时：访客确认了时段。 会议状态为`Scheduled`。
 
 | 属性 | 说明 |
 | --- | --- |
@@ -85,14 +85,14 @@ ht-degree: 4%
 | 销售代表电子邮件 | 代表的电子邮件地址 |
 | 计划对象 | 会议的日期和时间 |
 | 会议持续时间 | 预订会议的长度 |
-| 路由类型 | 解析此代表的日历的路由 |
+| 路由类型 | 选择此代表的路由类型 |
 | Page URL | 访客预订的页面 |
 | 礼宾ID | 访客参与的服务台 |
 | 人员 ID | [!DNL Marketo]个人记录 |
 
 >[!TIP]
 >
->在`Meeting Status`上生成智能列表为`Started`，但不是`Scheduled`，以查找已开始预订会议并放弃该会议的每个人。 这是一个现成的培养或者重新定位的观众。
+>生成`Meeting Status`为`Started`但不为`Scheduled`的人员的智能列表，以查找已开始预订会议并放弃该会议的每个人。 这是一个现成的培养或者重新定位的观众。
 
 ### 在礼宾部参与实时聊天 {#engage-with-live-chat}
 
@@ -101,7 +101,7 @@ ht-degree: 4%
 | 属性 | 说明 |
 | --- | --- |
 | 对话状态 | `Ended`如果聊天被有意关闭，`Dropped`如果访客离开网站且聊天超时 |
-| 已通知的代理 | 每个收到此聊天通知的座席的电子邮件地址 |
+| 已通知的代理 | 每个收到此聊天通知的代表的电子邮件地址 |
 | 对话得分 | 代表进行了交谈，打了0到3分。 查看[为对话评分](chat-inbox.md#conversation-score) |
 | Page URL | 启动实时聊天的页面 |
 | 礼宾ID | 访客参与的服务台 |
@@ -121,8 +121,8 @@ ht-degree: 4%
 | 类别 | 可用项目 |
 | --- | --- |
 | **[!UICONTROL 触发器]** | 与门房合作，与门房进行实时聊天，安排在门房开会 |
-| **[!UICONTROL 筛选器]** >活动历史记录 | 参与礼宾、参与礼宾中的Live Chat、在礼宾中的预定会议 |
-| **[!UICONTROL 筛选器]** >非活动筛选器 | 未与礼宾处接触，未参与礼宾处的Live Chat，未安排在礼宾处举行的会议 |
+| **[!UICONTROL 筛选器]** > **[!UICONTROL 活动历史记录]** | 参与礼宾、参与礼宾中的Live Chat、在礼宾中的预定会议 |
+| **[!UICONTROL 筛选器]** > **[!UICONTROL 非活动筛选器]** | 未与礼宾处接触，未参与礼宾处的Live Chat，未安排在礼宾处举行的会议 |
 
 将触发器或筛选器拖到画布上，然后选择&#x200B;**[!UICONTROL 添加约束]**&#x200B;以缩小其范围。
 

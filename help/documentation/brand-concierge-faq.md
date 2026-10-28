@@ -26,9 +26,9 @@ topic_v2:
     internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1981'
 ht-degree: 1%
 ---
 # 常见问题
@@ -148,7 +148,7 @@ Brand Concierge包含内置测试工具：
 
 ### 客户能否安排与我们团队的会议？
 
-是的。 客户可以通过&#x200B;**Meeting Booking**&#x200B;和&#x200B;**Live Chat**&#x200B;集成，使用&#x200B;**移交给销售人员**&#x200B;技能安排与团队的会议，或与代表开始实时聊天。 代表连接其日历并在Adobe Marketo Qualifier中设置其可用性，您可以选择将访客路由到访客的方式，然后在编辑器中激活该技能并定义触发该技能的意图。 配置完毕后，客户可以在对话期间请求会议或实时聊天，而无需离开聊天。 查看[Live Chat和会议预订](sales-handoff/overview.md)。
+是的。 客户可以通过使用&#x200B;**Meeting Booking**&#x200B;和&#x200B;**Live Chat**&#x200B;集成的&#x200B;**移交给销售人员**&#x200B;技能安排与团队的会议，或开始与代表进行实时聊天。 代表们在Adobe Marketo Qualifier中连接他们的日历并设置他们的可用性。 您可以选择将访客路由到访客的方式，然后在编辑器中激活该技能并定义触发该技能的意图。 配置完毕后，客户可以在对话期间请求会议或实时聊天，而无需离开聊天。 查看[Live Chat和会议预订](sales-handoff/overview.md)。
 
 ### 我的知识库中的初始Q&amp;A对是如何生成的？
 

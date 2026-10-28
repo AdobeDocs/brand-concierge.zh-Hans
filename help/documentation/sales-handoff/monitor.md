@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # 监测会议和实时聊天 {#monitor}
 
-[!DNL Adobe Marketo Qualifier]保存每次移交的操作记录：预订的会议、进行的聊天以及团队如何针对这些会议执行操作。
+[!DNL Adobe Marketo Qualifier]保存每次切换的操作记录：已预订的会议、已进行的聊天以及会议预订的执行方式。
 
 ## 审核已预订的会议 {#bookings}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 分析会议绩效 {#performance}
 
-在&#x200B;**[!UICONTROL Analytics]**&#x200B;下，选择&#x200B;**[!UICONTROL 会议性能]**&#x200B;以查看多个分析类别，包括有多少访客请求了会议以及错过了多少次。 您还可以看到会议随时间推移的趋势，以及哪些代表参加了会议。
+在&#x200B;**[!UICONTROL Analytics]**&#x200B;下，选择&#x200B;**[!UICONTROL 会议性能]**&#x200B;以查看访客请求了多少会议、预订了多少会议以及错过了多少会议。 您还可以查看每日、每周和每月的趋势，已预订的请求会议的百分比，以及哪些代表参加的会议最多。
 
-![会议表现仪表板](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![会议绩效仪表板，显示已请求、已预订和错过的会议总数，随后是每日错过的会议图表和已预订的请求百分比](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## 在Marketo Engage中分析礼宾参与 {#marketo}
 

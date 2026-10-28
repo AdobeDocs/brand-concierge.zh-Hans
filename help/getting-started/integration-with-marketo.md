@@ -17,7 +17,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 ## 视频内容
 
 * 访客对话如何从Brand Concierge流入Marketo — 从聊天中商机捕获和会议预订到自动商机创建
-* 潜在客户的活动日志中记录的本机“在礼宾室中计划的会议”活动类型，具有完整上下文：会议持续时间、销售步骤、路由类型和预订状态
+* 销售线索的活动日志中记录的本机“安排在礼宾室中开会”活动类型，具有完整上下文：会议持续时间、销售步骤、路由类型和预订状态
 * 如何在Marketo Smart Campaigns中使用Brand Concierge活动类型 — 作为触发器、过滤器或批量活动数据
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492258?captions=chi_hans&learn=on)

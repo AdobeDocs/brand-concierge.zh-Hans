@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # 在Adobe Marketo Qualifier中设置代表 {#representative-setup}
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    日历连接期间显示的![Microsoft帐户选取器](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. 查看访客在预约与您会面时发送的确认电子邮件。
+1. 查看访客在为您预订会议时收到的确认电子邮件。
 
    为您设置了默认主题行和正文。 编辑任一项，并选择是否在邀请中包含[!DNL Microsoft Teams]会议链接。
 
@@ -112,7 +112,7 @@ ht-degree: 1%
 
 ## 查看已设置的人员 {#manage-members}
 
-**仅限管理员。** 在&#x200B;**[!UICONTROL 管理]**&#x200B;下，选择&#x200B;**[!UICONTROL 管理成员]**&#x200B;可查看同一位置中每个代表的状态：已连接日历、已设置实时聊天可用性以及已断开日历连接。
+本节仅适用于管理员。 在&#x200B;**[!UICONTROL 管理]**&#x200B;下，选择&#x200B;**[!UICONTROL 管理成员]**&#x200B;可查看同一位置中每个代表的状态：已连接日历、已设置实时聊天可用性以及已断开日历连接。
 
 在编辑器中激活集成之前，请使用此项。 此处显示但没有连接日历的代表没有资格进行会议预订，没有实时聊天功能的代表也没有资格进行实时聊天。
 
