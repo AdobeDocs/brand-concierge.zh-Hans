@@ -30,6 +30,6 @@ ht-degree: 0%
 * 访客如何使用路由规则选择可用的会议时间，而不重新提交会话期间已提供的详细信息
 * 您的团队如何在Marketo中查看活动和过去的聊天和预订的会议、搜索和筛选记录，以及如何将会议信息导出到CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506006?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Live Chat和会议预订](../documentation/sales-handoff/overview.md)。

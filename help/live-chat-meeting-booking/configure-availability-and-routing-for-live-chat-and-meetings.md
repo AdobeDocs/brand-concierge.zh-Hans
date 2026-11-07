@@ -29,6 +29,6 @@ ht-degree: 0%
 * 在“管理成员”中设置单独的实时聊天时间并查看代表准备情况
 * 创建具有访客属性、条件、代表性分配和优先级的路由规则
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506793?captions=chi_hans&learn=on)
 
 有关文档，请参阅[设置代表](../documentation/sales-handoff/representative-setup.md)和[将对话路由到代表](../documentation/sales-handoff/routing-rules.md)。
