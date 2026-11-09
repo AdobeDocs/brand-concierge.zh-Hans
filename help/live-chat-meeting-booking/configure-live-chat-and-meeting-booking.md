@@ -28,7 +28,7 @@ ht-degree: 0%
 * 将集成添加到移交到销售人员的技能并定义触发该技能的意图
 * 查看自动生成的说明，优化触发每个集成的意图，并在预览中测试技能
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508060?captions=chi_hans&learn=on)
 
 有关文档，请参阅[激活Live Chat和Meeting预订](../documentation/sales-handoff/configure-in-composer.md)。
 
