@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # Live Chat和Meeting预订：端到端体验
@@ -33,3 +33,9 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3506006?captions=chi_hans&learn=on)
 
 有关文档，请参阅[Live Chat和会议预订](../documentation/sales-handoff/overview.md)。
+
+## 相关教程
+
+* [设置实时聊天和会议的可用性和路由](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [配置Live Chat和Meeting预订](configure-live-chat-and-meeting-booking.md)
+* [在Marketo中使用Brand Concierge活动](use-brand-concierge-activities-in-marketo.md)
