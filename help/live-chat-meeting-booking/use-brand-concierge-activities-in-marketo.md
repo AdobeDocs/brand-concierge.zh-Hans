@@ -1,16 +1,16 @@
 ---
 title: 在Marketo中使用Brand Concierge活动
-description: 了解Brand Concierge如何将参与数据发送到Marketo，并在智能营销活动中使用活动过滤器和触发器。
+description: 了解Adobe Brand Concierge如何将参与数据发送到Marketo Engage，并在智能营销活动中使用活动过滤器、触发器和对话得分。
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 276
+duration: 282
 last-substantial-update: 2026-11-06
 jira: KT-23062
-source-git-commit: 5d5b641a252c21e1c490cc77f169ac651d9654d1
+source-git-commit: 07679bbe94abeeebcd160cff4cb41f0f561ac63e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '179'
 ht-degree: 0%
 ---
 # 在Marketo中使用Brand Concierge活动
@@ -30,6 +30,12 @@ ht-degree: 0%
 * 区分已开始的会议预订和已安排的会议
 * 查看实时聊天状态和代表分配的对话分数
 * 将Concierge活动筛选器和触发器添加到智能营销活动的`Smart List`
-* 通过可用的活动约束（如状态、日期、路由类型、页面URL、销售代表和对话得分）来缩小受众范围
+* 通过活动约束（如状态、日期、路由类型、页面URL、销售代表以及对话得分）缩小受众范围
 
->[!VIDEO](https://video.tv.adobe.com/v/3508049?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+
+## 相关教程
+
+* [Live Chat和Meeting预订：端到端体验](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [设置实时聊天和会议的可用性和路由](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [配置Live Chat和Meeting预订](configure-live-chat-and-meeting-booking.md)
