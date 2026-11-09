@@ -32,4 +32,4 @@ ht-degree: 0%
 * 将Concierge活动筛选器和触发器添加到智能营销活动的`Smart List`
 * 通过可用的活动约束（如状态、日期、路由类型、页面URL、销售代表和对话得分）来缩小受众范围
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508049?captions=chi_hans&learn=on)
